@@ -72,9 +72,3 @@ npm run dev
 - [ ] **Port Congestion**: Real-time vessel tracking for maritime hubs like Tanjung Priok.
 - [ ] **Historical Performance**: Tracking disruption patterns to optimize scheduling.
 - [ ] **Mobile Operations**: PWA support for field teams.
-
----
-
-## 📄 License
-
-This project is open-source under the MIT License.
