@@ -8,9 +8,12 @@
 
 ## 📸 Dashboard Preview
 
-*(Upload your own screenshot here to showcase the live dashboard!)*
+<img width="1914" height="838" alt="image" src="https://github.com/user-attachments/assets/5ab5b835-5f98-4020-b2a3-51ecd7dbaa33" />
 
-![Dashboard Preview Placeholder](https://via.placeholder.com/1200x600?text=Logistics+OSINT+Dashboard+Preview)
+<img width="1918" height="874" alt="image" src="https://github.com/user-attachments/assets/fac74d77-3201-40d7-b806-3c275c9d3cdd" />
+
+<img width="1912" height="867" alt="image" src="https://github.com/user-attachments/assets/869e2262-6bb1-45b3-abfd-30cb4678cd38" />
+
 
 ---
 
