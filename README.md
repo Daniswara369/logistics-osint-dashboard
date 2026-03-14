@@ -74,4 +74,3 @@ npm run dev
 - [ ] **Route Optimization**: Calculating best delivery routes based on live traffic data.
 - [ ] **Port Congestion**: Real-time vessel tracking for maritime hubs like Tanjung Priok.
 - [ ] **Historical Performance**: Tracking disruption patterns to optimize scheduling.
-- [ ] **Mobile Operations**: PWA support for field teams.
